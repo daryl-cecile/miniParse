@@ -1,0 +1,17 @@
+{
+  "name": "miniparse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daryl Cecile <darylcecile@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1"
+  }
+}
